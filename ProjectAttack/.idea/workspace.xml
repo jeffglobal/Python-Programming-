@@ -10,24 +10,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="attack.py" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/attack.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="108">
+                    <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/classes/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="attack.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/attack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="enemy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/enemy.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -49,10 +54,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="360" />
-    <option name="y" value="178" />
+    <option name="x" value="193" />
+    <option name="y" value="181" />
     <option name="width" value="1008" />
-    <option name="height" value="805" />
+    <option name="height" value="640" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -175,7 +180,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="448" y="374" width="1008" height="797" extended-state="0" />
+    <frame x="193" y="181" width="1008" height="640" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
@@ -185,12 +190,12 @@
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.21554253" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.28" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49823943" visible="true" weight="0.17641129" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49823943" visible="true" weight="0.17641129" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="R Graphics" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -214,18 +219,22 @@
     <entry file="file://$PROJECT_DIR$/enemy.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/enemy.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/attack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
